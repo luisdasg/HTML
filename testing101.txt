@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title> Luis Page </title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <!--[if lt IE 9]>
+        <script>
+            document.createElement("article");
+            document.createElement("aside");
+            document.createElement("footer");
+            document.createElement("header");
+            document.createElement("main");
+            document.createElement("nav");
+            document.createElement("section");
+        </script>
+        <![endif]-->
+    </head>
+    <body>
+        <header class="banner"> 
+            <h1> My Profile</h1>
+            <p>My social Media</p>
+        </header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="profile.html">Profile</a></li>
+                <li><a href="archive.html">Archive</a></li>
+            </ul>
+        </nav>
+        <main>
+            <section>
+                <h2>My Social Media</h2>
+                <article>
+                    <header>
+                        <h3> My instagram </h3>
+                        <p> author </p>
+                    </header>
+                    <p> ajsdajsdak</p>
+                    <p>asjdaksa</p>
+
+                </article>
+                <article>
+                    <header>
+                        <h3> My Favorite Sports </h3>
+                        <p> Author </p>
+                    </header>
+                    <p> ahsjdjajdsd</p>
+                    <p> kdjkaskdka</p>
+                </article>
+            </section>
+            
+        </main>
+        <footer>
+            <p> This website its made by Luis, don't steal it.</p>
+        </footer>
+        
+    </body>
+</html>
